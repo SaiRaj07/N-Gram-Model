@@ -2,15 +2,15 @@
 """
 A)Name:Sairaj Amberkar
 
-B)The program was completely implemented by contributions exclusively from the team members
+B)The program was completely implemented by contributions exclusively from me
   without referring to any source beyond the ones taught or referred to in class.There were
-  additional sources referred to and have been properly attributed.
+   additional sources referred to and have been properly attributed.
 
 C)The program runs without any error and provides the output as required in the assignment.
 
-D)Problem statement:To implement	a Python program	 that	will learn an	 N-gram model from
-                    plain	text	files and the program	should	generate	a	given	number	of
-                    sentences based	on	that N-gram	model.
+D)Problem statement:To implement a Python program that	will learn an	 N-gram model from
+                    plain	text files and the program	should	generate	a	given	number	of
+                    sentences based	on that N-gram model.
 
 E)Examples:
     A)Bigram:1)To their worst commander in the neck , than what it was while the evening.
