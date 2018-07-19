@@ -8,9 +8,9 @@ B)The program was completely implemented by contributions exclusively from me
 
 C)The program runs without any error and provides the output as required in the assignment.
 
-D)Problem statement:To implement a Python program that	will learn an	 N-gram model from
-                    plain	text files and the program	should	generate	a	given	number	of
-                    sentences based	on that N-gram model.
+D)Problem statement: To implement a python program that will learn an N-gram model from plain
+                      text files and the program should generate a given number of sentences
+                      based on that N-gram model
 
 E)Examples:
     A)Bigram:1)To their worst commander in the neck , than what it was while the evening.
